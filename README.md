@@ -351,18 +351,9 @@ The user will be prompted to enter the passphrase used to encrypt.
 ## References and further reading
 
 * [The GNU Privacy Handbook][gnu-handbook]
-* [Arch Linux wiki][arch-gpg]
-* [OpenPGP best practices][best-practices]
-* [LinuxCrypto][linux-crypto]
-* [Linux commandline encryption tools][howtoforge]
-* [GPG quickstart][madboa]
-* [Ana's blog][ana]
+* [Keybase - Encryption key sharing / verification portal][keybase]
+* [Openpgp][openpgp]
 
 [gnu-handbook]: https://www.gnupg.org/gph/en/manual.html
-[arch-gpg]: https://wiki.archlinux.org/index.php/GnuPG
-[sks-pool]: https://sks-keyservers.net/overview-of-pools.php#pool_hkps
-[best-practices]: https://riseup.net/en/gpg-best-practices
-[linux-crypto]: https://sanctum.geek.nz/arabesque/series/linux-crypto
-[howtoforge]: https://www.howtoforge.com/tutorial/linux-commandline-encryption-tools
-[madboa]: https://www.madboa.com/geek/gpg-quickstart
-[ana]: https://ekaia.org/blog/2009/05/10/creating-new-gpgkey
+[keybase]: https://keybase.io/
+[openpgp]: https://keys.openpgp.org/about/usage
